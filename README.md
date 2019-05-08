@@ -6,7 +6,7 @@
 ![](https://user-gold-cdn.xitu.io/2019/3/18/16990d6fd5380b63?w=991&h=606&f=gif&s=709516)
 
 ## install
-+ 下载代码: `git clone https://github.com/chenchangyuan/shopping.git`
++ 下载代码: `git clone https://github.com/suxianghui/shopping.git`
 + 安装依赖: `npm install`
 + 启动项目: `npm run dev`
 > 运行环境: [node v9.11.1](https://nodejs.org/zh-cn/download/ 'Node.js') *npm 5.6.0*
